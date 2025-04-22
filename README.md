@@ -25,6 +25,11 @@ npx expo install expo-dev-client
 ---
 
 ### 🧪 2. Lancer sur simulateur
+Pour chaque modification apportés
+```bash
+npx expo prebuild
+```
+
 ```bash
 npx expo run:ios
 ```
